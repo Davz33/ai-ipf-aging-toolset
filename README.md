@@ -1,6 +1,6 @@
 # AI Toolset for IPF and Aging Research
 
-An AI-driven toolset for IPF (Idiopathic Pulmonary Fibrosis) and aging research, implemented in Rust. This project is inspired by the research described in the attached paper and provides a comprehensive framework for analyzing proteomics data, training AI models, and generating biological insights.
+An AI-driven toolset for IPF (Idiopathic Pulmonary Fibrosis) and aging research, implemented in Rust. This project is inspired by the research described in the [attached paper](https://www.aging-us.com/article/206295) and provides a comprehensive framework for analyzing proteomics data, training AI models, and generating biological insights.
 
 ## Overview
 
