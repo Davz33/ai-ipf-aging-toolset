@@ -295,8 +295,7 @@ For support and questions:
 
 - **Issues**: GitHub issue tracker
 - **Discussions**: GitHub discussions
-- **Email**: davide.vitiello@example.com
-- **Documentation**: [docs.example.com](https://docs.example.com)
+- **Email**: davide_vitiello@outlook.com
 
 ## Acknowledgments
 
